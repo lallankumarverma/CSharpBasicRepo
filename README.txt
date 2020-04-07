@@ -1,0 +1,1 @@
+This Repo will help to understand basic C Sharp concept for learning.
